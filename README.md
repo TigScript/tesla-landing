@@ -1,6 +1,6 @@
 
 > 🧑‍🚀
->![Landing](tesla-landing/public/landing.jpg)
+>![Landing](public/landing.jpg)
 
 
 
